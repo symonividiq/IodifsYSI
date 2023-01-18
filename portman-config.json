@@ -28,15 +28,7 @@
                 }
             ]
         },
-        {
-            "openApiOperationId": "createCustomer",
-            "collectionVariables": [
-                {
-                    "responseBodyProp": "customer_id",
-                    "name": "customer_id"
-                }
-            ]
-        },
+   
         {
             "openApiOperationId": "createRefund",
             "collectionVariables": [
